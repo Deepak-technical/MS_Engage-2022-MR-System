@@ -8,7 +8,12 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Features of Movie-Desk 
 1.Get Detail information about the movies (like Movie Name , rating , Duration, Status, genere,etc)
+
 2.Displaying the information about the top characters
+
 3.Displaying Top 10 recommended movies to the user based on the genere of the movie selected
+
 4. Language translation feature supported by Google translate into 256 images
-5. 
+
+
+6. 
