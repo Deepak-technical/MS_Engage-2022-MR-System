@@ -42,6 +42,24 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 6. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
 
+# Architecture
+
+![mx](https://user-images.githubusercontent.com/75557390/169880379-74b25d99-8aa4-4f80-9511-94c1c16c6b07.png)
+
+
+
+
+# Dataset 
+
+Movie Dataset From kaggle
+
+American Movies 2018 From Wikepedia by Web scrapping
+
+American Movies 2019 From Wikepedia by Web scrapping
+
+American Movies 2020 From Wikepedia by Web scrapping
+
+American Movies 2021 From Wikepedia by Web scrapping
 
 
 
