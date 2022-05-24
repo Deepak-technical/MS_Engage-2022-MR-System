@@ -47,6 +47,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 ![mx](https://user-images.githubusercontent.com/75557390/169880379-74b25d99-8aa4-4f80-9511-94c1c16c6b07.png)
 
 
+# Description of this project is given in this Presentation
+https://docs.google.com/presentation/d/1DT4Xyh6J7QULg_rsIkrIO15UMzX3nOU5/edit?usp=sharing&ouid=100521934796007286039&rtpof=true&sd=true
 
 
 # Dataset 
