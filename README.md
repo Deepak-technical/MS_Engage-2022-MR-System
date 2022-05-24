@@ -1,5 +1,5 @@
 # MS_Engage-2022-Movie Recommendation  System
-A interactive movie recommendation using ML algorithms &amp; sorting technique to display the best recommended movies on the users choice
+Movie -Desk is a interactive movie recommendation using ML algorithms &amp; sorting technique to display the best recommended movies on the users choice
 
 This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc.
 
