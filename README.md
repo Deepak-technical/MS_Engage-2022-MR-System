@@ -32,9 +32,11 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key) OR It is provieded not need(if you want you can create it)
+   Do not worry my api key is given so no need to install it
 
 
 4. Replace YOUR_API_KEY in required places of static/recommend.js file and hit save.
+   if you make own api key the !!! DO not att it is already given
 
 
 5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command python app.py.
