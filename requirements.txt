@@ -16,3 +16,4 @@ urllib3
 requests==2.23.0
 pickleshare==0.7.5
 flask-mongoengine
+itsdangerous==2.0.1
