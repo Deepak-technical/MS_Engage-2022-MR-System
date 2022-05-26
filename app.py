@@ -8,7 +8,7 @@ import pandas as pd
 import bs4 as bs
 import pandas as pd
 
-from flask_mongoengine import MongoEngine #ModuleNotFoundError: No module named 'flask_mongoengine' = (venv) C:\flaskmyproject>pip install flask-mongoengine
+from flask_mongoengine import MongoEngine 
 from werkzeug.security import generate_password_hash, check_password_hash
 from datetime import datetime
  
@@ -55,9 +55,8 @@ def signUp():
             if not users:
                 usersave = User(name=_name, email=_email, password=_hashed_password, reg_date=today)
                 usersave.save()
-                msg =  '{ "html":"ok"}'
-                msghtml = json.loads(msg)
-                return msghtml["html"] and redirect('/login')
+
+                return  redirect('/login')
             else:
                 msg = f"It seems that {_email} You have already Registered"
             
