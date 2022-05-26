@@ -4,7 +4,7 @@ from flask_mongoengine import *
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import pandas as pd
-import json
+
 import bs4 as bs
 import pandas as pd
 
