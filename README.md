@@ -36,7 +36,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 
 4. Replace YOUR_API_KEY in required places of static/recommend.js file and hit save.
-   if you make own api key the !!! DO not att it is already given
+
+   if you make own api key the !!! DO not add it is already given
 
 
 5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command python app.py.
