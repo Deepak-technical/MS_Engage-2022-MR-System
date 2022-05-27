@@ -40,7 +40,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
    if you make own api key the !!! DO not add it is already given
 
 
-5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command python app.py.
+5. Open your terminal/command prompt from your project directory and run the file app.py by executing the command python app.py.
 
 
 6. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
