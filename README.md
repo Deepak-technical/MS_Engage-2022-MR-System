@@ -31,6 +31,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
 
 
+
+Video Link:https://youtu.be/ENi62yUy_L0
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key) OR It is provieded not need(if you want you can create it)
    Do not worry my api key is given so no need to install it
 
